@@ -7,4 +7,4 @@
 </div>
 
 ### Трофеи профиля
-<img src="https://github-profile-trophy.vercel.app/?username=wolfdmitrich&column=3&theme=onedark"/>
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=wolfdmitrich&column=3&theme=onedark"/>
