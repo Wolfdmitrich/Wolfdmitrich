@@ -1,5 +1,5 @@
 # Hello, I'm Dmitry!
-[![Discord](https://lanyard.cnrad.dev/api/1052180779435839558)](https://discord.com/users/1438176021995065458)
+[![Discord](https://lanyard.cnrad.dev/api/1438176021995065458)](https://discord.com/users/1438176021995065458)
 
 <div>
   <img height="180em" width="378em" src="https://github-readme-stats.vercel.app/api?username=wolfdmitrich&count_private=true&show_icons=true&theme=github_dark"/>
